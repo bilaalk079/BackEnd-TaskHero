@@ -42,4 +42,4 @@ This repository contains the **backend service** for TaskHero, providing user au
 - `server.js` – Server entry point
 - `.env` – Environment variables
 
-## This is a personal project it'll be live at TaskHero [https://task-hero.vercel.app]
+## This is a personal project it'll be live at [TaskHero](https://taskhero.vercel.app)
